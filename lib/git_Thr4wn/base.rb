@@ -1,4 +1,4 @@
-require 'git/base/factory'
+require 'git2/base/factory'
 
 module Git
   

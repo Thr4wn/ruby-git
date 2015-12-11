@@ -1,4 +1,4 @@
-require 'git/path'
+require 'git2/path'
 
 module Git
 
